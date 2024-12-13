@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AF738&background=2FFF1900&center=true&vCenter=true&width=435&lines=Hello+There%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;My+Name+is+Raka+Aleandra;You+Can+Call+Me+Raka)(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AF738&background=2FFF1900&center=true&vCenter=true&width=435&lines=Hello+There%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;My+Name+is+Raka+Aleandra;You+Can+Call+Me+Raka)(https://git.io/typing-svg)
 
 I'm **Raka Aleandra**, Informatics Student at Universitas Sebelas Maret, interested in Web Development, Game Development, and Machine Learning
 
