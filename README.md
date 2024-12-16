@@ -12,4 +12,5 @@ I'm **Raka Aleandra**, Informatics Student at Universitas Sebelas Maret, interes
 
 ## Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakaaleandra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakaaleandra&layout=compact&theme=highcontrast&langs_count=8&card_width=445)
